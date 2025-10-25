@@ -97,4 +97,5 @@ Moves are entered in coordinate notation:
 - Python 3.6+
 
 ### Running the Game
-Run every cell and then the "main loop" to play. 
+Import this file in a Google Colab environment. 
+Run every cell and then the "main loop" to play.
